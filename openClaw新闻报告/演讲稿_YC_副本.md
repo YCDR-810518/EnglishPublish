@@ -50,7 +50,9 @@
   * 传播得更加广泛
   * 降低使用难度（其它的API调用配置非常复杂），其脚本可以做到基本上一次部署，持续使用
   * 插件多，增加功能简便
-  
+
+>上面这个问题也是让他们问的问题
+
 * 一开始-》普通开源agent项目
 * 创始人加入openai
 * 爆炸式增长！👇
@@ -104,3 +106,4 @@
 * 你觉得经历了这两个阶段的ai，未来会发展成什么样子？
   * After walking through this two part, do you think what ai will finally be looked like in the future?
 
+> 我先说，让他们问问题
